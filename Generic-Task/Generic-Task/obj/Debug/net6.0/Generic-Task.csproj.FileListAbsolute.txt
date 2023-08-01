@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\bin\Debug\net6.0\Generic-Task.exe
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\bin\Debug\net6.0\Generic-Task.deps.json
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\bin\Debug\net6.0\Generic-Task.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\bin\Debug\net6.0\Generic-Task.dll
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\bin\Debug\net6.0\Generic-Task.pdb
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.dll
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\refint\Generic-Task.dll
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.pdb
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\Generic-Task.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Generic-Task\Generic-Task\obj\Debug\net6.0\ref\Generic-Task.dll

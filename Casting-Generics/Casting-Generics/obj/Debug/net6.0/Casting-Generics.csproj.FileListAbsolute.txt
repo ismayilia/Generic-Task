@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\bin\Debug\net6.0\Casting-Generics.exe
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\bin\Debug\net6.0\Casting-Generics.deps.json
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\bin\Debug\net6.0\Casting-Generics.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\bin\Debug\net6.0\Casting-Generics.dll
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\bin\Debug\net6.0\Casting-Generics.pdb
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.dll
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\refint\Casting-Generics.dll
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.pdb
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\Casting-Generics.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 31.07\Casting-Generics\Casting-Generics\obj\Debug\net6.0\ref\Casting-Generics.dll
